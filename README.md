@@ -46,3 +46,6 @@
 - Processingで開く場合：
   1. `sketchフォルダ` を開く
   2. `sketch.pde` を開き「実行」ボタンを押す
+
+##スクリーンショット/GIF
+<img width="700" height="490" alt="Firework-1 png 花火のイラスト" src="https://github.com/user-attachments/assets/b66adf07-39e6-4364-8f8d-74c940e86f6b" />
